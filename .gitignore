@@ -2,6 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
+dataset*
+.ipynb*
+bk*
+*.pth
+*.engine
 
 # C extensions
 *.so
